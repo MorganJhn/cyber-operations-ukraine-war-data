@@ -1,0 +1,454 @@
+original_id,source,attribution_method,actor_type,actor_country,motive,confidence_hint,rules_passed,rules_failed,consistency_score,consistency_status
+cissm_-2096713303948550477,cissm,unclear,hacktivist_prorussian,russian federation,undetermined,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_-2429480153365504076,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_-1237031872172952129,cissm,unclear,state_russian,russian federation,political-espionage,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_-6583632776827867324,cissm,academic_research,state_russian,russian federation,political-espionage,definitive,E; F,,1.0,consistent
+cissm_4486690127077772914,cissm,unclear,unknown,undetermined,sabotage,none,D,,1.0,consistent
+cissm_5821766133425985120,cissm,official_government,state_russian,russian federation,political-espionage,definitive,A; F,,1.0,consistent
+cissm_8151004635878643622,cissm,official_government,state_russian,russian federation,sabotage,qualified,A,,1.0,consistent
+cissm_8613542690007835772,cissm,unclear,unknown,undetermined,sabotage,none,D,,1.0,consistent
+cissm_1243182496068312243,cissm,unclear,state_russian,belarus,sabotage,none,,D: unclear but country=belarus,0.0,inconsistent
+cissm_1764016070224870086,cissm,corporate_threat_intel,hacktivist_prorussian,brazil,undetermined,qualified,,B: corp_TI but country=brazil,0.0,inconsistent
+cissm_5285478292009029658,cissm,self_attribution,unknown,undetermined,protest,claimed,C,,1.0,consistent
+cissm_8889440044893281511,cissm,academic_research,hacktivist_proukrainian,undetermined,protest,qualified,,E: academic but type=hacktivist_proukrainian,0.0,inconsistent
+cissm_1607618763193356552,cissm,self_attribution,state_ukrainian,ukraine,protest,claimed,C,,1.0,consistent
+cissm_2730204752803143507,cissm,self_attribution,hacktivist_prorussian,undetermined,protest,claimed,C_expected,,1.0,consistent
+cissm_8413485761035287696,cissm,self_attribution,hacktivist_prorussian,undetermined,protest,claimed,C_expected,,1.0,consistent
+cissm_-4209856756250278203,cissm,unclear,state_ukrainian,ukraine,undetermined,qualified,,D: unclear but country=ukraine,0.0,inconsistent
+cissm_5513791875680490944,cissm,corporate_threat_intel,state_russian,belarus,political-espionage,definitive,F,B: corp_TI but country=belarus,0.5,partially_consistent
+cissm_-4358461901006601688,cissm,corporate_threat_intel,state_russian,russian federation,political-espionage,definitive,B; F,,1.0,consistent
+cissm_1362032521050874497,cissm,unclear,unknown,undetermined,protest,none,D,,1.0,consistent
+cissm_-6494929150407880419,cissm,unclear,state_russian,russian federation,political-espionage,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_-4501274551617704140,cissm,corporate_threat_intel,state_russian,russian federation,undetermined,qualified,B,,1.0,consistent
+cissm_-8590844684570245996,cissm,self_attribution,hacktivist_proukrainian,undetermined,protest,claimed,C_expected,,1.0,consistent
+cissm_6253421198944479194,cissm,self_attribution,hacktivist_prorussian,united states of america,undetermined,claimed,C_expected,,1.0,consistent
+cissm_-5349969316430289753,cissm,unclear,unknown,undetermined,protest,none,D,,1.0,consistent
+cissm_-6331041491804262866,cissm,official_government,state_ukrainian,ukraine,undetermined,definitive,A; F,,1.0,consistent
+cissm_-5084793250084177460,cissm,self_attribution,state_ukrainian,ukraine,undetermined,claimed,,C: self_attribution but motive=undetermined,0.0,inconsistent
+cissm_7273564399464977926,cissm,official_government,state_russian,russian federation,sabotage,qualified,A,,1.0,consistent
+cissm_7351612467826167726,cissm,academic_research,state_ukrainian,ukraine,protest,qualified,,E: academic but type=state_ukrainian,0.0,inconsistent
+cissm_6170917102333911941,cissm,official_government,unknown,undetermined,political-espionage,definitive,F,A: official_gov but country=undetermined,0.5,partially_consistent
+cissm_-5017817264226006680,cissm,corporate_threat_intel,state_russian,russian federation,undetermined,definitive,B; F,,1.0,consistent
+cissm_6668632438143837930,cissm,academic_research,hacktivist_proukrainian,undetermined,protest,qualified,,E: academic but type=hacktivist_proukrainian,0.0,inconsistent
+cissm_-577018941932699018,cissm,unclear,state_russian,russian federation,financial,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_5094328675578006738,cissm,self_attribution,hacktivist_prorussian,undetermined,protest,claimed,C_expected,,1.0,consistent
+cissm_-6747868163943955475,cissm,corporate_threat_intel,state_russian,belarus,political-espionage,definitive,F,B: corp_TI but country=belarus,0.5,partially_consistent
+cissm_5769738273387548985,cissm,self_attribution,state_ukrainian,ukraine,protest,claimed,C,,1.0,consistent
+cissm_2575924209861280578,cissm,corporate_threat_intel,state_russian,russian federation,sabotage,qualified,B,,1.0,consistent
+cissm_8982300666293370485,cissm,official_government,state_russian,russian federation,political-espionage,definitive,A; F,,1.0,consistent
+cissm_-909011881791661112,cissm,official_government,state_russian,russian federation,protest,definitive,A; F,,1.0,consistent
+cissm_2705550640563824787,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_3233703972726814332,cissm,unclear,hacktivist_prorussian,russian federation,protest,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_7511444533213828251,cissm,self_attribution,hacktivist_other,russian federation,financial,claimed,,C: self_attribution but motive=financial,0.0,inconsistent
+cissm_-8062954544173766150,cissm,official_government,hacktivist_prorussian,russian federation,sabotage,definitive,A; F,,1.0,consistent
+cissm_1354177790962845531,cissm,official_government,state_russian,russian federation,undetermined,definitive,A; F,,1.0,consistent
+cissm_3997930483286522877,cissm,unclear,hacktivist_prorussian,russian federation,protest,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_2541023921121682769,cissm,self_attribution,hacktivist_prorussian,ukraine,protest,claimed,C_expected,,1.0,consistent
+cissm_-1166635159434171115,cissm,unclear,hacktivist_prorussian,russian federation,protest,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_7664034862294455749,cissm,corporate_threat_intel,state_russian,russian federation,political-espionage,definitive,B; F,,1.0,consistent
+cissm_8940207262505451249,cissm,corporate_threat_intel,state_ukrainian,ukraine,protest,definitive,F,B: corp_TI but country=ukraine,0.5,partially_consistent
+cissm_-7036320794305110001,cissm,unclear,unknown,undetermined,political-espionage,none,D,,1.0,consistent
+cissm_-8890057417461877273,cissm,corporate_threat_intel,state_ukrainian,ukraine,protest,definitive,F,B: corp_TI but country=ukraine,0.5,partially_consistent
+cissm_-5440566915305889861,cissm,official_government,hacktivist_prorussian,russian federation,protest,definitive,A; F,,1.0,consistent
+cissm_-1528724689716867342,cissm,academic_research,state_ukrainian,ukraine,protest,qualified,,E: academic but type=state_ukrainian,0.0,inconsistent
+cissm_7439241761883957562,cissm,official_government,hacktivist_other,united states of america,undetermined,definitive,F,A: official_gov but country=united states of america,0.5,partially_consistent
+cissm_-3078857540268487164,cissm,unclear,unknown,undetermined,protest,none,D,,1.0,consistent
+cissm_7728144786182249332,cissm,unclear,unknown,undetermined,protest,none,D,,1.0,consistent
+cissm_3047278798356739468,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-2529162694349408232,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_8563204790220140037,cissm,unclear,state_russian,undetermined,political-espionage,none,D,,1.0,consistent
+cissm_8985000834112647572,cissm,self_attribution,state_ukrainian,ukraine,protest,claimed,C,,1.0,consistent
+cissm_5475916246376830478,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-3146465457137050153,cissm,academic_research,hacktivist_prorussian,russian federation,protest,definitive,F,E: academic but type=hacktivist_prorussian,0.5,partially_consistent
+cissm_-5389741818755626655,cissm,self_attribution,state_russian,russian federation,undetermined,claimed,,C: self_attribution but motive=undetermined,0.0,inconsistent
+cissm_-1128402398503570242,cissm,journalistic,hacktivist_prorussian,russian federation,protest,qualified,,,0.0,not_applicable
+cissm_8654794486063203494,cissm,corporate_threat_intel,state_russian,russian federation,sabotage,definitive,B; F,,1.0,consistent
+cissm_8227779563478179628,cissm,academic_research,state_ukrainian,ukraine,protest,qualified,,E: academic but type=state_ukrainian,0.0,inconsistent
+cissm_7079498144463023138,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_3954983351853786955,cissm,corporate_threat_intel,state_russian,russian federation,political-espionage,definitive,B; F,,1.0,consistent
+cissm_-37341846978244017,cissm,self_attribution,hacktivist_prorussian,undetermined,protest,claimed,C_expected,,1.0,consistent
+cissm_-7281548935379445601,cissm,unclear,unknown,undetermined,sabotage,none,D,,1.0,consistent
+cissm_6912432831095989842,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-6409880708026339308,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_4484055708189672408,cissm,self_attribution,hacktivist_prorussian,ukraine,protest,claimed,C_expected,,1.0,consistent
+cissm_8577311899934927500,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_-2034250719267087773,cissm,self_attribution,state_ukrainian,ukraine,protest,claimed,C,,1.0,consistent
+cissm_-4404564947515140157,cissm,official_government,hacktivist_prorussian,russian federation,protest,definitive,A; F,,1.0,consistent
+cissm_4044349964193189112,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_7025960874437288956,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-8814637367500078472,cissm,self_attribution,state_ukrainian,ukraine,protest,claimed,C,,1.0,consistent
+cissm_7421680900031543421,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-3779909230692224185,cissm,unclear,unknown,undetermined,financial,none,D,,1.0,consistent
+cissm_-1330849541835751515,cissm,self_attribution,state_ukrainian,ukraine,protest,claimed,C,,1.0,consistent
+cissm_-5506096663122956671,cissm,corporate_threat_intel,state_russian,russian federation,political-espionage,definitive,B; F,,1.0,consistent
+cissm_5110576188089353882,cissm,academic_research,hacktivist_proukrainian,undetermined,protest,qualified,,E: academic but type=hacktivist_proukrainian,0.0,inconsistent
+cissm_-6092872189180994883,cissm,self_attribution,hacktivist_prorussian,undetermined,protest,claimed,C_expected,,1.0,consistent
+cissm_425050152791402613,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_2056860861720817352,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_3721662545791710004,cissm,self_attribution,state_ukrainian,undetermined,protest,claimed,C,,1.0,consistent
+cissm_7425942199717574001,cissm,self_attribution,hacktivist_proukrainian,ukraine,protest,claimed,C_expected,,1.0,consistent
+cissm_898898734543820048,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-8448250218842526703,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-8017882850282226131,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_9211644985071070899,cissm,self_attribution,state_ukrainian,ukraine,protest,claimed,C,,1.0,consistent
+cissm_8504729169734448879,cissm,self_attribution,hacktivist_proukrainian,undetermined,protest,claimed,C_expected,,1.0,consistent
+cissm_5783607151550288593,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-1503637805455663768,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-3569693620882551779,cissm,self_attribution,hacktivist_proukrainian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_5514313036721949152,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_-5600059017087127337,cissm,self_attribution,hacktivist_prorussian,ukraine,protest,claimed,C_expected,,1.0,consistent
+cissm_3372123678034721666,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_1023602067452233763,cissm,self_attribution,hacktivist_prorussian,ukraine,protest,claimed,C_expected,,1.0,consistent
+cissm_3239796149127807865,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_5732173978119024479,cissm,academic_research,state_ukrainian,ukraine,protest,definitive,F,E: academic but type=state_ukrainian,0.5,partially_consistent
+cissm_6328730402420062868,cissm,unclear,unknown,undetermined,protest,none,D,,1.0,consistent
+cissm_1186813000903075239,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_8293085150576324181,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_7918878163015938400,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_4137693974406614390,cissm,unclear,hacktivist_prorussian,russian federation,protest,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_5323600762930888167,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-4192473840314952419,cissm,self_attribution,state_russian,russian federation,sabotage,claimed,,C: self_attribution but motive=sabotage,0.0,inconsistent
+cissm_1076193245509051711,cissm,self_attribution,state_ukrainian,ukraine,protest,claimed,C,,1.0,consistent
+cissm_4357734455243213926,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_8240936623031560840,cissm,official_government,state_russian,undetermined,undetermined,definitive,F,A: official_gov but country=undetermined,0.5,partially_consistent
+cissm_-6067767617450857220,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-7270677679087441603,cissm,self_attribution,hacktivist_prorussian,undetermined,protest,claimed,C_expected,,1.0,consistent
+cissm_825362275267225094,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_6663602200034771357,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_6659132040650287241,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_7142406485891913821,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_5977741854643903961,cissm,self_attribution,hacktivist_prorussian,ukraine,protest,claimed,C_expected,,1.0,consistent
+cissm_9186129923725976869,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_-143587149663155354,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_506021918293785755,cissm,self_attribution,state_ukrainian,ukraine,protest,claimed,C,,1.0,consistent
+cissm_8643811966119043967,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_6094540963854171139,cissm,official_government,hacktivist_prorussian,russian federation,protest,definitive,A; F,,1.0,consistent
+cissm_-1182574272478525037,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_3318552948309093475,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_9076516057948219345,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_-5164647811406058413,cissm,official_government,state_russian,russian federation,sabotage,definitive,A; F,,1.0,consistent
+cissm_3190015881469528990,cissm,unclear,unknown,undetermined,financial,none,D,,1.0,consistent
+cissm_5887614786221752501,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_415968478078152464,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_6670558452822067475,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_6380030306677891913,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_8639262713218584294,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_8708598763779786388,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_7525350461434451770,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_-1275223381547038485,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_-3872354138665559546,cissm,corporate_threat_intel,state_russian,russian federation,sabotage,qualified,B,,1.0,consistent
+cissm_-3314206278746901292,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_6007810908456679364,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_445220900714237695,cissm,academic_research,state_ukrainian,ukraine,protest,qualified,,E: academic but type=state_ukrainian,0.0,inconsistent
+cissm_-5439840110898378602,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-409697552920111216,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-145626498948505720,cissm,corporate_threat_intel,state_russian,russian federation,political-espionage,qualified,B,,1.0,consistent
+cissm_4338437302427141991,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_2649787498830637299,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_-4319289055026928019,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_6727891844081233601,cissm,official_government,state_russian,russian federation,political-espionage,qualified,A,,1.0,consistent
+cissm_8257363889111270113,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_6638230666773822533,cissm,self_attribution,state_ukrainian,ukraine,protest,claimed,C,,1.0,consistent
+cissm_8869690428782857168,cissm,unclear,unknown,undetermined,political-espionage,none,D,,1.0,consistent
+cissm_5964350923513249915,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_5697061886115996873,cissm,unclear,hacktivist_prorussian,russian federation,protest,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_-3982373032156352609,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_2255776712337246404,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_2587494046882596594,cissm,self_attribution,state_ukrainian,ukraine,protest,claimed,C,,1.0,consistent
+cissm_8282736122084197193,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-4548032505538801987,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-7588800965505584097,cissm,self_attribution,hacktivist_proukrainian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_6061988247783349623,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_6263327479960382712,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_3132825517573383838,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-680893727482388591,cissm,official_government,state_russian,russian federation,sabotage,qualified,A,,1.0,consistent
+cissm_6519770434167996888,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_5804754425883423121,cissm,official_government,hacktivist_prorussian,russian federation,protest,definitive,A; F,,1.0,consistent
+cissm_-5045709269331548710,cissm,self_attribution,state_ukrainian,ukraine,protest,claimed,C,,1.0,consistent
+cissm_7451072947481021933,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-4763269356589560409,cissm,official_government,state_russian,russian federation,political-espionage,definitive,A; F,,1.0,consistent
+cissm_-2493447640736879119,cissm,official_government,state_russian,undetermined,political-espionage,definitive,F,A: official_gov but country=undetermined,0.5,partially_consistent
+cissm_-4864921263658751570,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_6515711422456613330,cissm,unclear,hacktivist_prorussian,russian federation,protest,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_5052051745444683362,cissm,self_attribution,state_ukrainian,ukraine,protest,claimed,C,,1.0,consistent
+cissm_9066559632573537092,cissm,official_government,state_russian,russian federation,political-espionage,definitive,A; F,,1.0,consistent
+cissm_-5970681814929390678,cissm,unclear,hacktivist_prorussian,russian federation,protest,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_-6718178699670261453,cissm,corporate_threat_intel,state_russian,russian federation,political-espionage,definitive,B; F,,1.0,consistent
+cissm_4233037021944706342,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_9194755118011744643,cissm,self_attribution,hacktivist_proukrainian,ukraine,protest,claimed,C_expected,,1.0,consistent
+cissm_-2667942351225421893,cissm,official_government,state_russian,russian federation,undetermined,definitive,A; F,,1.0,consistent
+cissm_-8367667801624500253,cissm,official_government,unknown,undetermined,protest,definitive,F,A: official_gov but country=undetermined,0.5,partially_consistent
+cissm_-3847269381971506202,cissm,official_government,state_russian,russian federation,political-espionage,definitive,A; F,,1.0,consistent
+cissm_7522023846948218863,cissm,unclear,hacktivist_prorussian,russian federation,protest,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_2234202157520882134,cissm,official_government,state_russian,russian federation,political-espionage,definitive,A; F,,1.0,consistent
+cissm_6878702559619535618,cissm,unclear,hacktivist_prorussian,russian federation,protest,definitive,,D: unclear but country=russian federation; F: definitive but method=unclear,0.0,inconsistent
+cissm_5413642066731865918,cissm,unclear,unknown,undetermined,financial,none,D,,1.0,consistent
+cissm_-9135719395745260379,cissm,official_government,state_russian,russian federation,political-espionage,qualified,A,,1.0,consistent
+cissm_1713874412714742191,cissm,unclear,unknown,undetermined,political-espionage,none,D,,1.0,consistent
+cissm_-4750296480428900739,cissm,self_attribution,hacktivist_prorussian,ukraine,protest,claimed,C_expected,,1.0,consistent
+cissm_2669448164942565629,cissm,official_government,hacktivist_prorussian,russian federation,protest,definitive,A; F,,1.0,consistent
+cissm_-8219642746389874329,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_1206863214960906200,cissm,corporate_threat_intel,state_russian,russian federation,political-espionage,qualified,B,,1.0,consistent
+cissm_-5030885732255979366,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_8351839328160939040,cissm,academic_research,state_ukrainian,ukraine,protest,definitive,F,E: academic but type=state_ukrainian,0.5,partially_consistent
+cissm_954336277155101332,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-2376129942052211229,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_6795165588724338942,cissm,self_attribution,hacktivist_proukrainian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-218596236917683478,cissm,self_attribution,hacktivist_other,russian federation,financial,claimed,,C: self_attribution but motive=financial,0.0,inconsistent
+cissm_-6390513304343925577,cissm,official_government,state_russian,russian federation,political-espionage,claimed,A,,1.0,consistent
+cissm_3372550421169175970,cissm,corporate_threat_intel,state_russian,russian federation,political-espionage,definitive,B; F,,1.0,consistent
+cissm_-3040325774908760134,cissm,self_attribution,hacktivist_other,undetermined,financial,claimed,,C: self_attribution but motive=financial,0.0,inconsistent
+cissm_7729548955645585924,cissm,self_attribution,hacktivist_proukrainian,ukraine,protest,claimed,C_expected,,1.0,consistent
+cissm_-8519024166066238086,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_2512817285302978569,cissm,official_government,state_russian,russian federation,political-espionage,definitive,A; F,,1.0,consistent
+cissm_622455821288364527,cissm,official_government,state_russian,russian federation,political-espionage,qualified,A,,1.0,consistent
+cissm_-8175736408365370469,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-2493091031500964799,cissm,unclear,unknown,undetermined,political-espionage,none,D,,1.0,consistent
+cissm_-7017800937985831044,cissm,academic_research,state_ukrainian,ukraine,protest,qualified,,E: academic but type=state_ukrainian,0.0,inconsistent
+cissm_9137763639590894065,cissm,official_government,state_russian,russian federation,political-espionage,qualified,A,,1.0,consistent
+cissm_-1348235687012697459,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-8184871658438591693,cissm,self_attribution,state_ukrainian,ukraine,protest,claimed,C,,1.0,consistent
+cissm_-806956448903581311,cissm,self_attribution,hacktivist_proukrainian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-185242405523245795,cissm,self_attribution,state_ukrainian,ukraine,protest,claimed,C,,1.0,consistent
+cissm_-5566711612202944217,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_1807794491816435364,cissm,official_government,state_russian,russian federation,political-espionage,definitive,A; F,,1.0,consistent
+cissm_-8165751989912276818,cissm,self_attribution,state_ukrainian,ukraine,political-espionage,claimed,,C: self_attribution but motive=political-espionage,0.0,inconsistent
+cissm_-1656374926391761770,cissm,corporate_threat_intel,state_russian,ukraine,political-espionage,definitive,F,B: corp_TI but country=ukraine,0.5,partially_consistent
+cissm_-8722098660449531574,cissm,self_attribution,hacktivist_other,ukraine,protest,claimed,C,,1.0,consistent
+cissm_-188361407142902607,cissm,self_attribution,state_ukrainian,ukraine,sabotage,claimed,,C: self_attribution but motive=sabotage,0.0,inconsistent
+cissm_-3464995429590038798,cissm,corporate_threat_intel,state_russian,undetermined,political-espionage,definitive,F,B: corp_TI but country=undetermined,0.5,partially_consistent
+cissm_-5679405853967866914,cissm,self_attribution,state_ukrainian,ukraine,protest,claimed,C,,1.0,consistent
+cissm_-1102495189818231420,cissm,self_attribution,hacktivist_other,ukraine,protest,claimed,C,,1.0,consistent
+cissm_-8084249062278300842,cissm,official_government,unknown,russian federation,sabotage,definitive,A; F,,1.0,consistent
+cissm_3313434630462816717,cissm,unclear,unknown,ukraine,protest,none,,D: unclear but country=ukraine,0.0,inconsistent
+cissm_-3572045139250291443,cissm,self_attribution,hacktivist_other,ukraine,protest,claimed,C,,1.0,consistent
+cissm_-6037067875017659714,cissm,journalistic,state_ukrainian,ukraine,financial,qualified,,,0.0,not_applicable
+cissm_754619781711796232,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_6947663767996732614,cissm,self_attribution,state_ukrainian,russian federation,sabotage,claimed,,C: self_attribution but motive=sabotage,0.0,inconsistent
+cissm_-2592062622041958658,cissm,corporate_threat_intel,state_russian,russian federation,political-espionage,definitive,B; F,,1.0,consistent
+cissm_-609101471680518306,cissm,official_government,hacktivist_other,united states of america,undetermined,definitive,F,A: official_gov but country=united states of america,0.5,partially_consistent
+cissm_5318994020171454053,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-9149520309931174379,cissm,unclear,unknown,russian federation,sabotage,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_2712184896356511502,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_3768715382368442402,cissm,corporate_threat_intel,state_russian,russian federation,sabotage,definitive,B; F,,1.0,consistent
+cissm_4250951865503898280,cissm,corporate_threat_intel,hacktivist_other,russian federation,financial,qualified,B,,1.0,consistent
+cissm_-655530775084852840,cissm,self_attribution,state_ukrainian,ukraine,political-espionage,claimed,,C: self_attribution but motive=political-espionage,0.0,inconsistent
+cissm_6865093011896316485,cissm,corporate_threat_intel,state_russian,russian federation,industrial-espionage,definitive,B; F,,1.0,consistent
+cissm_-7281667349371396659,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_7520666912644943937,cissm,self_attribution,hacktivist_other,russian federation,financial,claimed,,C: self_attribution but motive=financial,0.0,inconsistent
+cissm_8725593282312370175,cissm,unclear,hacktivist_other,ukraine,sabotage,qualified,,D: unclear but country=ukraine,0.0,inconsistent
+cissm_-4731330541929200482,cissm,self_attribution,hacktivist_proukrainian,ukraine,protest,claimed,C_expected,,1.0,consistent
+cissm_-7419693664592974053,cissm,official_government,state_russian,russian federation,undetermined,definitive,A; F,,1.0,consistent
+cissm_-8089799455773643163,cissm,academic_research,hacktivist_other,russian federation,financial,definitive,F,E: academic but type=hacktivist_other,0.5,partially_consistent
+cissm_7382076151893768734,cissm,corporate_threat_intel,state_russian,russian federation,industrial-espionage,definitive,B; F,,1.0,consistent
+cissm_8300363692828399115,cissm,unclear,unknown,russian federation,political-espionage,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_-3535777725988044977,cissm,unclear,unknown,russian federation,political-espionage,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_7259515315796889398,cissm,official_government,state_russian,russian federation,political-espionage,definitive,A; F,,1.0,consistent
+cissm_4432319229257731300,cissm,unclear,state_russian,russian federation,undetermined,qualified,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_87113314105078959,cissm,unclear,unknown,russian federation,undetermined,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_3666434106846515071,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_6648987950599312425,cissm,corporate_threat_intel,unknown,undetermined,political-espionage,qualified,,B: corp_TI but country=undetermined,0.0,inconsistent
+cissm_-1854367299222811644,cissm,unclear,unknown,russian federation,protest,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_-6622416178212697410,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_7405527321490489849,cissm,official_government,state_russian,russian federation,political-espionage,qualified,A,,1.0,consistent
+cissm_7765320274975881809,cissm,unclear,unknown,russian federation,protest,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_5441889545379435239,cissm,self_attribution,unknown,russian federation,protest,claimed,C,,1.0,consistent
+cissm_8484829856235709586,cissm,self_attribution,state_ukrainian,ukraine,sabotage,claimed,,C: self_attribution but motive=sabotage,0.0,inconsistent
+cissm_-4981330669026620401,cissm,self_attribution,hacktivist_prorussian,ukraine,protest,claimed,C_expected,,1.0,consistent
+cissm_-1476479682301346391,cissm,official_government,state_russian,russian federation,political-espionage,definitive,A; F,,1.0,consistent
+cissm_6207994217619107019,cissm,unclear,unknown,russian federation,sabotage,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_7391870144592506894,cissm,official_government,unknown,russian federation,undetermined,qualified,A,,1.0,consistent
+cissm_-4316517429898228397,cissm,official_government,unknown,russian federation,sabotage,definitive,A; F,,1.0,consistent
+cissm_-2826470596611533406,cissm,self_attribution,state_ukrainian,ukraine,protest,claimed,C,,1.0,consistent
+cissm_-5363129073286311008,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_9026304966140223324,cissm,official_government,unknown,ukraine,protest,qualified,A,,1.0,consistent
+cissm_2962306993381329762,cissm,self_attribution,state_ukrainian,ukraine,sabotage,claimed,,C: self_attribution but motive=sabotage,0.0,inconsistent
+cissm_5325108128852932242,cissm,official_government,unknown,russian federation,political-espionage,qualified,A,,1.0,consistent
+cissm_429046189831347280,cissm,unclear,state_ukrainian,ukraine,sabotage,qualified,,D: unclear but country=ukraine,0.0,inconsistent
+cissm_5167926978460026095,cissm,official_government,state_russian,russian federation,political-espionage,definitive,A; F,,1.0,consistent
+cissm_-2284020241770487756,cissm,official_government,state_russian,russian federation,political-espionage,qualified,A,,1.0,consistent
+cissm_3671366001011188187,cissm,academic_research,hacktivist_prorussian,russian federation,protest,qualified,,E: academic but type=hacktivist_prorussian,0.0,inconsistent
+cissm_3777992265984986426,cissm,corporate_threat_intel,state_russian,russian federation,political-espionage,definitive,B; F,,1.0,consistent
+cissm_5803110242794684635,cissm,corporate_threat_intel,hacktivist_prorussian,russian federation,political-espionage,definitive,B; F,,1.0,consistent
+cissm_-3643786563900997632,cissm,corporate_threat_intel,state_russian,russian federation,undetermined,qualified,B,,1.0,consistent
+cissm_-160800602161777464,cissm,unclear,unknown,russian federation,protest,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_-8892409321138926464,cissm,self_attribution,hacktivist_prorussian,russian federation,political-espionage,claimed,C_expected,,1.0,consistent
+cissm_-8235684566959936408,cissm,self_attribution,state_ukrainian,ukraine,sabotage,claimed,,C: self_attribution but motive=sabotage,0.0,inconsistent
+cissm_1866752543863531753,cissm,unclear,unknown,russian federation,political-espionage,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_-3514761969588299084,cissm,unclear,unknown,undetermined,financial,none,D,,1.0,consistent
+cissm_-6402887205481802128,cissm,official_government,hacktivist_prorussian,russian federation,political-espionage,definitive,A; F,,1.0,consistent
+cissm_6300195564681533875,cissm,corporate_threat_intel,state_russian,russian federation,political-espionage,qualified,B,,1.0,consistent
+cissm_3174218426135754800_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_-2863006683275877541_rule_a_direct+rule_b_hacktivist,cissm,unclear,hacktivist_prorussian,russian federation,protest,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_6867554589593483533_rule_a_direct,cissm,unclear,unknown,undetermined,protest,none,D,,1.0,consistent
+cissm_4711063354375765292_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-2125990210972994396_rule_a_direct+rule_b_hacktivist,cissm,unclear,hacktivist_prorussian,russian federation,protest,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_4579856806775826243_rule_a_direct,cissm,academic_research,hacktivist_proukrainian,undetermined,protest,qualified,,E: academic but type=hacktivist_proukrainian,0.0,inconsistent
+cissm_-7757588125921947490_rule_a_direct,cissm,unclear,unknown,undetermined,sabotage,none,D,,1.0,consistent
+cissm_1452321111795010941_rule_a_direct,cissm,corporate_threat_intel,state_russian,belarus,political-espionage,definitive,F,B: corp_TI but country=belarus,0.5,partially_consistent
+cissm_6694303614858389449_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-8348169742832786077_rule_a_direct,cissm,academic_research,hacktivist_proukrainian,undetermined,protest,qualified,,E: academic but type=hacktivist_proukrainian,0.0,inconsistent
+cissm_-6938815309775122254_rule_a_direct+rule_b_hacktivist,cissm,unclear,hacktivist_prorussian,russian federation,protest,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_6909118216105519193_rule_a_direct,cissm,unclear,unknown,undetermined,protest,none,D,,1.0,consistent
+cissm_-4742480912678729000_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-571569443327633031_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_6439533353792209275_rule_a_direct,cissm,self_attribution,hacktivist_proukrainian,ukraine,protest,claimed,C_expected,,1.0,consistent
+cissm_-4529603528111428776_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-6967128390672752715_rule_a_direct,cissm,self_attribution,hacktivist_prorussian,ukraine,protest,claimed,C_expected,,1.0,consistent
+cissm_5524666628063415384_rule_a_direct,cissm,self_attribution,hacktivist_proukrainian,ukraine,protest,claimed,C_expected,,1.0,consistent
+cissm_-4368738694427766554_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_427509893892488643_rule_a_direct+rule_b_hacktivist,cissm,official_government,hacktivist_prorussian,russian federation,protest,definitive,A; F,,1.0,consistent
+cissm_1460383226441288876_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-5630350895203917336_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_7983423164457866628_rule_a_direct,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-5988511086486224082_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_7003048605411649295_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_-5755455215330288219_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_6914192433972471357_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_6826689789044984186_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_7361903844449632478_rule_a_direct,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_769018281393350948_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_8357147335739692625_rule_a_direct,cissm,self_attribution,hacktivist_prorussian,ukraine,protest,claimed,C_expected,,1.0,consistent
+cissm_8947853303535099015_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_8836427849700034597_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-6991865412308777225_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-1686533429987742193_rule_a_direct,cissm,unclear,state_ukrainian,ukraine,protest,none,,D: unclear but country=ukraine,0.0,inconsistent
+cissm_-7311367897281677553_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_8496997546567058584_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_5333397900832872308_rule_a_direct,cissm,journalistic,hacktivist_prorussian,ukraine,political-espionage,qualified,,,0.0,not_applicable
+cissm_-3426849525764521763_rule_a_direct,cissm,self_attribution,hacktivist_prorussian,undetermined,protest,claimed,C_expected,,1.0,consistent
+cissm_5292576515496424751_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_9064576034203738914_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_8039749899657308140_rule_a_direct+rule_b_hacktivist,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_1917021581369329813_rule_a_direct,cissm,official_government,hacktivist_prorussian,ukraine,protest,definitive,A; F,,1.0,consistent
+cissm_8991860641989106098_rule_a_direct,cissm,unclear,unknown,undetermined,sabotage,none,D,,1.0,consistent
+cissm_-9066483065941935433_rule_a_direct,cissm,unclear,unknown,russian federation,political-espionage,none,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_561945063274992100_rule_a_direct,cissm,unclear,state_russian,russian federation,protest,qualified,,D: unclear but country=russian federation,0.0,inconsistent
+cissm_2686777028347136406_rule_a_direct,cissm,official_government,state_russian,russian federation,political-espionage,qualified,A,,1.0,consistent
+cissm_-6052973529391693430_rule_a_direct,cissm,corporate_threat_intel,state_russian,russian federation,protest,qualified,B,,1.0,consistent
+cissm_6552220675786986593_rule_a_direct,cissm,self_attribution,hacktivist_prorussian,ukraine,protest,claimed,C_expected,,1.0,consistent
+cissm_4509297552627197308_rule_a_direct,cissm,academic_research,state_russian,russian federation,political-espionage,definitive,E; F,,1.0,consistent
+cissm_8802106849302986193_rule_a_direct+rule_b_hacktivist,cissm,corporate_threat_intel,state_russian,russian federation,protest,definitive,B; F,,1.0,consistent
+cissm_3230919858551806217_rule_a_direct,cissm,official_government,state_russian,russian federation,sabotage,definitive,A; F,,1.0,consistent
+cfr_-2756306841670797554,cfr,academic_research,state_ukrainian,,,definitive,F,E: academic but type=state_ukrainian,0.5,partially_consistent
+cfr_-618834107202259463,cfr,official_government,state_russian,,,definitive,F,A: official_gov but country=,0.5,partially_consistent
+cfr_-3337837015885410195,cfr,unclear,state_russian,,,none,D,,1.0,consistent
+cfr_-840663165014653655,cfr,unclear,state_russian,,,none,D,,1.0,consistent
+cfr_-2141376301132465144,cfr,unclear,state_russian,,,none,D,,1.0,consistent
+cfr_8567953532621560871,cfr,corporate_threat_intel,unknown,,,qualified,,B: corp_TI but country=,0.0,inconsistent
+cfr_-1342192116467461081,cfr,corporate_threat_intel,state_russian,,,definitive,F,B: corp_TI but country=,0.5,partially_consistent
+cfr_5103711519936962116,cfr,unclear,state_russian,,,none,D,,1.0,consistent
+cfr_4059307812071073453,cfr,unclear,state_russian,,,none,D,,1.0,consistent
+cfr_7308336067235224305,cfr,unclear,state_russian,,,none,D,,1.0,consistent
+cfr_-502971005987862048,cfr,corporate_threat_intel,state_russian,,,definitive,F,B: corp_TI but country=,0.5,partially_consistent
+cfr_4398318190025024490,cfr,academic_research,state_ukrainian,,,definitive,F,E: academic but type=state_ukrainian,0.5,partially_consistent
+cfr_-7494572114597947651,cfr,unclear,state_russian,,,none,D,,1.0,consistent
+cfr_4187096388654917226,cfr,unclear,state_russian,,,none,D,,1.0,consistent
+cfr_8509431067928852077,cfr,corporate_threat_intel,state_russian,,,qualified,,B: corp_TI but country=,0.0,inconsistent
+cfr_8582420021253539133,cfr,official_government,state_russian,,,qualified,,A: official_gov but country=,0.0,inconsistent
+cfr_-2412010052929183275,cfr,unclear,state_russian,,,none,D,,1.0,consistent
+cfr_-4269960701503120868,cfr,unclear,state_russian,,,none,D,,1.0,consistent
+cfr_-5197331538990873661,cfr,official_government,state_russian,,,claimed,,A: official_gov but country=,0.0,inconsistent
+cfr_-8376448279924306551,cfr,unclear,state_russian,,,none,D,,1.0,consistent
+cfr_-3663433581708263712,cfr,unclear,state_russian,,,none,D,,1.0,consistent
+cfr_1080716310199894451,cfr,official_government,state_russian,,,definitive,F,A: official_gov but country=,0.5,partially_consistent
+cfr_4763608800308084282,cfr,unclear,state_russian,,,none,D,,1.0,consistent
+cfr_-3556424503224200710,cfr,unclear,state_russian,,,none,D,,1.0,consistent
+cfr_-5484556730899818222,cfr,unclear,state_russian,,,none,D,,1.0,consistent
+cfr_806086113913984148,cfr,academic_research,state_ukrainian,,,definitive,F,E: academic but type=state_ukrainian,0.5,partially_consistent
+csis_7201457206129434437,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_-7358872011787908602,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_-3993978580425547690,csis,official_government,state_russian,,,definitive,F,A: official_gov but country=,0.5,partially_consistent
+csis_6596671453882430030,csis,official_government,hacktivist_prorussian,,,qualified,,A: official_gov but country=,0.0,inconsistent
+csis_-4817908309957464535,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_5253863320596740002,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_1865606341347500536,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_1940496618348732671,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_7145927276646220164,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_5969189996651972420,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_-8540026158036400236,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_833304918142819495,csis,official_government,state_russian,,,definitive,F,A: official_gov but country=,0.5,partially_consistent
+csis_1808026111294863422,csis,unclear,hacktivist_prorussian,,,none,D,,1.0,consistent
+csis_-7110371129983633321,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_-8756303806584374877,csis,corporate_threat_intel,state_russian,,,definitive,F,B: corp_TI but country=,0.5,partially_consistent
+csis_74116114329133519,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_3392435281343734106,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_-2121883613423819574,csis,official_government,state_russian,,,definitive,F,A: official_gov but country=,0.5,partially_consistent
+csis_3568411713497633538,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_-4644259807732387706,csis,self_attribution,state_russian,,,claimed,,C: self_attribution but motive=,0.0,inconsistent
+csis_2125212442702791935,csis,self_attribution,state_russian,,,claimed,,C: self_attribution but motive=,0.0,inconsistent
+csis_-2011197349005258566,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_1793211277611221422,csis,self_attribution,state_russian,,,claimed,,C: self_attribution but motive=,0.0,inconsistent
+csis_-1161006674847343003,csis,official_government,state_russian,,,definitive,F,A: official_gov but country=,0.5,partially_consistent
+csis_1031102425967648517,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_-4834666810308986415,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_5250166011837966918,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_-1363654082706288917,csis,unclear,hacktivist_prorussian,,,none,D,,1.0,consistent
+csis_3131851891919304324,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_-714150475217440104,csis,official_government,state_russian,,,qualified,,A: official_gov but country=,0.0,inconsistent
+csis_-6942469917358061468,csis,mutual_blame,state_russian,,,qualified,,,0.0,not_applicable
+csis_3375514160982443040,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_4273236361746646930,csis,official_government,state_russian,,,definitive,F,A: official_gov but country=,0.5,partially_consistent
+csis_-4413620976031439351,csis,unclear,hacktivist_proukrainian,,,none,D,,1.0,consistent
+csis_2824734880410695146,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_7945787269871528954,csis,self_attribution,hacktivist_prorussian,,,claimed,C_expected,,1.0,consistent
+csis_-2097746035347242335,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_8877365321394745637,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_6689733680337766274,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_-715515402136095812,csis,unclear,hacktivist_prorussian,,,none,D,,1.0,consistent
+csis_893412708261701475,csis,unclear,hacktivist_other,,,none,D,,1.0,consistent
+csis_6014601066666094915,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_4343176342666551267,csis,self_attribution,hacktivist_proukrainian,,,claimed,C_expected,,1.0,consistent
+csis_4750523123874058509,csis,mutual_blame,state_russian,,,claimed,,,0.0,not_applicable
+csis_-1212301224862419886,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_-5242547616536050266,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_7976005012895520737,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_2282351189448822605,csis,official_government,state_russian,,,definitive,F,A: official_gov but country=,0.5,partially_consistent
+csis_6701656543942177255,csis,self_attribution,state_russian,,,claimed,,C: self_attribution but motive=,0.0,inconsistent
+csis_-7720092925120909526,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_1430600092225498892,csis,unclear,state_russian,,,qualified,D,,1.0,consistent
+csis_8268389549139586824,csis,official_government,hacktivist_prorussian,,,definitive,F,A: official_gov but country=,0.5,partially_consistent
+csis_-8943476716758443493,csis,unclear,state_russian,,,qualified,D,,1.0,consistent
+csis_-3325764376192771125,csis,self_attribution,hacktivist_prorussian,,,claimed,C_expected,,1.0,consistent
+csis_6863381289047659616,csis,official_government,state_russian,,,qualified,,A: official_gov but country=,0.0,inconsistent
+csis_-6363604543305859566,csis,official_government,state_russian,,,definitive,F,A: official_gov but country=,0.5,partially_consistent
+csis_3511687740843646574,csis,official_government,state_russian,,,definitive,F,A: official_gov but country=,0.5,partially_consistent
+csis_-8619536856397014661,csis,corporate_threat_intel,state_russian,,,definitive,F,B: corp_TI but country=,0.5,partially_consistent
+csis_-125602151057035615,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_-380837130008536882,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_4825202652106177792,csis,mutual_blame,state_russian,,,claimed,,,0.0,not_applicable
+csis_2447699517698135817,csis,corporate_threat_intel,state_russian,,,definitive,F,B: corp_TI but country=,0.5,partially_consistent
+csis_1248417725233027667,csis,journalistic,state_russian,,,qualified,,,0.0,not_applicable
+csis_-1857432169749281916,csis,self_attribution,hacktivist_prorussian,,,claimed,C_expected,,1.0,consistent
+csis_6211125807615043357,csis,self_attribution,hacktivist_prorussian,,,claimed,C_expected,,1.0,consistent
+csis_2112973781378009035,csis,official_government,state_russian,,,definitive,F,A: official_gov but country=,0.5,partially_consistent
+csis_-3605299138859835339,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_4097734163882443399,csis,official_government,state_russian,,,definitive,F,A: official_gov but country=,0.5,partially_consistent
+csis_-7095504363259810500,csis,self_attribution,hacktivist_prorussian,,,claimed,C_expected,,1.0,consistent
+csis_-2701042348060262959,csis,official_government,hacktivist_other,,,qualified,,A: official_gov but country=,0.0,inconsistent
+csis_-6910679543630507536,csis,corporate_threat_intel,state_russian,,,definitive,F,B: corp_TI but country=,0.5,partially_consistent
+csis_-2106786512020604199,csis,self_attribution,hacktivist_prorussian,,,claimed,C_expected,,1.0,consistent
+csis_5941978008895703251,csis,mutual_blame,state_russian,,,claimed,,,0.0,not_applicable
+csis_-581458692227846844,csis,self_attribution,hacktivist_prorussian,,,claimed,C_expected,,1.0,consistent
+csis_5489921095455331097,csis,unclear,hacktivist_proukrainian,,,qualified,D,,1.0,consistent
+csis_-2278875394456963915,csis,self_attribution,hacktivist_prorussian,,,claimed,C_expected,,1.0,consistent
+csis_-1507360982180769517,csis,self_attribution,hacktivist_prorussian,,,claimed,C_expected,,1.0,consistent
+csis_4633621970113673915,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_-5822137257195615727,csis,corporate_threat_intel,state_russian,,,definitive,F,B: corp_TI but country=,0.5,partially_consistent
+csis_-2989700209389816116,csis,academic_research,state_russian,,,qualified,E,,1.0,consistent
+csis_7799491926500742909,csis,official_government,state_russian,,,definitive,F,A: official_gov but country=,0.5,partially_consistent
+csis_-4159442099187678055,csis,official_government,state_russian,,,qualified,,A: official_gov but country=,0.0,inconsistent
+csis_-1102010425233729620,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_-644633187167868180,csis,unclear,hacktivist_proukrainian,,,none,D,,1.0,consistent
+csis_-6059421760674511122,csis,official_government,state_russian,,,definitive,F,A: official_gov but country=,0.5,partially_consistent
+csis_-4477200780713702195,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_-261515532836624920,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_2816259869977893097,csis,official_government,state_russian,,,definitive,F,A: official_gov but country=,0.5,partially_consistent
+csis_-4573103572689234573,csis,academic_research,state_russian,,,definitive,E; F,,1.0,consistent
+csis_2741666267337478691,csis,unclear,state_russian,,,none,D,,1.0,consistent
+csis_750433051035162710_rule_d_csis,csis,self_attribution,state_russian,,,claimed,,C: self_attribution but motive=,0.0,inconsistent
+csis_-780861119075929885_rule_d_csis,csis,academic_research,state_russian,,,definitive,E; F,,1.0,consistent
+cissm_6733314675831971101,cissm,official_government,state_russian,russian federation,political-espionage,definitive,A; F,,1.0,consistent
+cissm_-686951178211978957,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent
+cissm_-7501075742964969747,cissm,self_attribution,state_russian,russian federation,protest,claimed,C,,1.0,consistent
+cissm_2466127938936452833,cissm,self_attribution,hacktivist_prorussian,russian federation,protest,claimed,C_expected,,1.0,consistent

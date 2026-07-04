@@ -1,0 +1,80 @@
+{
+  "summary": {
+    "total_rows": 453,
+    "total_columns": 59,
+    "pass": 8,
+    "warn": 3,
+    "fail": 0,
+    "skip": 0
+  },
+  "checks": [
+    {
+      "check": "corpus_load",
+      "status": "PASS",
+      "detail": "453 rows, 56 cols"
+    },
+    {
+      "check": "corpus_columns",
+      "status": "PASS",
+      "detail": "All required columns present"
+    },
+    {
+      "check": "source_breakdown",
+      "status": "PASS",
+      "detail": "CISSM=335 CFR=26 CSIS=92"
+    },
+    {
+      "check": "corpus_types",
+      "status": "PASS",
+      "detail": "All types valid"
+    },
+    {
+      "check": "csis_merge",
+      "status": "WARN",
+      "detail": "10 CSIS rows unmatched by canonical_incident_name"
+    },
+    {
+      "check": "csis_post_merge",
+      "status": "PASS",
+      "detail": "{'date': 92, 'actor_country': 92, 'event_type': 0, 'motive': 0}"
+    },
+    {
+      "check": "cfr_actor_country",
+      "status": "PASS",
+      "detail": "All 26 CFR rows have actor_country (derived 26)"
+    },
+    {
+      "check": "actor_type_merge",
+      "status": "PASS",
+      "detail": "453 rows merged with actor_type"
+    },
+    {
+      "check": "overlap_verification",
+      "status": "WARN",
+      "detail": "54 day_diff=0 pairs UNVERIFIED for incident identity (date-only match). Recommend manual spot-check."
+    },
+    {
+      "check": "icr_methodology",
+      "status": "WARN",
+      "detail": "ICR is rule-engine consistency, not human intercoder reliability. \u03ba\u2248-0.007 measures field-to-field agreement, not rater agreement. Rename 'internal field consistency' before journal submission."
+    },
+    {
+      "check": "icr_kappa",
+      "status": "INFO",
+      "detail": "No \u03ba metric found in ICR file"
+    },
+    {
+      "check": "corpus_output",
+      "status": "PASS",
+      "detail": "paper_analysis_corpus.csv: 453 rows, 59 cols"
+    }
+  ],
+  "notes": {
+    "csis_merge": "Merged 82/92 CSIS rows with date/actor_country",
+    "cfr_derivation": "Derived actor_country for 26 CFR rows",
+    "kappa_note": "\u03ba\u2248-0.007 is rule-engine consistency, NOT human intercoder reliability. Use Cram\u00e9r's V or \u03c7\u00b2 for journal submission.",
+    "overlap_note": "54 day_diff=0 pairs unverified for incident identity \u2014 manual spot-check recommended.",
+    "hacktivist_skew": "47-51% DDoS finding IS partially circular: hacktivists self-attest \u2192 CISSM collects self-attestations \u2192 CISSM=74% corpus. Disclose as measurement artifact.",
+    "recommendation": "Corpus is structurally sound after CSIS merge. Proceed to analysis. See notes above for caveats."
+  }
+}

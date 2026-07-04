@@ -1,0 +1,854 @@
+{
+  "overall": {
+    "months": [
+      "2022-01",
+      "2022-02",
+      "2022-03",
+      "2022-04",
+      "2022-05",
+      "2022-06",
+      "2022-07",
+      "2022-08",
+      "2022-09",
+      "2022-10",
+      "2022-11",
+      "2022-12",
+      "2023-01",
+      "2023-02",
+      "2023-03",
+      "2023-04",
+      "2023-05",
+      "2023-06",
+      "2023-07",
+      "2023-08",
+      "2023-09",
+      "2023-10",
+      "2023-11",
+      "2023-12",
+      "2024-01",
+      "2024-02",
+      "2024-03",
+      "2024-04",
+      "2024-05",
+      "2024-06",
+      "2024-07",
+      "2024-08",
+      "2024-09",
+      "2024-10",
+      "2024-11",
+      "2024-12"
+    ],
+    "start": "2022-01",
+    "end": "2024-12",
+    "total_months": 36,
+    "data": {
+      "2022-01": {
+        "state_russian": 2.0,
+        "state_ukrainian": 0.0,
+        "hacktivist_prorussian": 0.0,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 0.0,
+        "unknown": 0.0,
+        "total": 2.0
+      },
+      "2022-02": {
+        "state_russian": 12.25,
+        "state_ukrainian": 2.0,
+        "hacktivist_prorussian": 2.0,
+        "hacktivist_proukrainian": 0.1667,
+        "hacktivist_other": 0.0,
+        "unknown": 2.0,
+        "total": 18.4167
+      },
+      "2022-03": {
+        "state_russian": 11.0,
+        "state_ukrainian": 4.0,
+        "hacktivist_prorussian": 2.0,
+        "hacktivist_proukrainian": 2.0,
+        "hacktivist_other": 0.0,
+        "unknown": 1.4762,
+        "total": 20.4762
+      },
+      "2022-04": {
+        "state_russian": 14.0,
+        "state_ukrainian": 1.0,
+        "hacktivist_prorussian": 7.5,
+        "hacktivist_proukrainian": 1.5,
+        "hacktivist_other": 0.3333,
+        "unknown": 2.0,
+        "total": 26.3333
+      },
+      "2022-05": {
+        "state_russian": 3.0,
+        "state_ukrainian": 3.5,
+        "hacktivist_prorussian": 7.0,
+        "hacktivist_proukrainian": 2.0,
+        "hacktivist_other": 0.0,
+        "unknown": 1.0,
+        "total": 16.5
+      },
+      "2022-06": {
+        "state_russian": 1.0,
+        "state_ukrainian": 2.0,
+        "hacktivist_prorussian": 3.0,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 0.5,
+        "unknown": 2.5,
+        "total": 9.0
+      },
+      "2022-07": {
+        "state_russian": 6.0,
+        "state_ukrainian": 0.25,
+        "hacktivist_prorussian": 9.0,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 0.0,
+        "unknown": 1.0,
+        "total": 16.25
+      },
+      "2022-08": {
+        "state_russian": 6.0,
+        "state_ukrainian": 2.0,
+        "hacktivist_prorussian": 10.25,
+        "hacktivist_proukrainian": 2.0,
+        "hacktivist_other": 1.0,
+        "unknown": 2.0,
+        "total": 23.25
+      },
+      "2022-09": {
+        "state_russian": 5.0,
+        "state_ukrainian": 2.3333,
+        "hacktivist_prorussian": 6.75,
+        "hacktivist_proukrainian": 3.0,
+        "hacktivist_other": 0.0,
+        "unknown": 0.0,
+        "total": 17.0833
+      },
+      "2022-10": {
+        "state_russian": 7.0,
+        "state_ukrainian": 2.0,
+        "hacktivist_prorussian": 12.2,
+        "hacktivist_proukrainian": 1.0,
+        "hacktivist_other": 0.0,
+        "unknown": 1.0,
+        "total": 23.2
+      },
+      "2022-11": {
+        "state_russian": 12.9999,
+        "state_ukrainian": 0.5,
+        "hacktivist_prorussian": 11.0,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 0.0,
+        "unknown": 1.0,
+        "total": 25.499899999999997
+      },
+      "2022-12": {
+        "state_russian": 8.5,
+        "state_ukrainian": 3.0,
+        "hacktivist_prorussian": 10.0,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 0.0,
+        "unknown": 1.0,
+        "total": 22.5
+      },
+      "2023-01": {
+        "state_russian": 6.0,
+        "state_ukrainian": 1.0,
+        "hacktivist_prorussian": 5.5,
+        "hacktivist_proukrainian": 1.0,
+        "hacktivist_other": 0.0,
+        "unknown": 0.0,
+        "total": 13.5
+      },
+      "2023-02": {
+        "state_russian": 3.0,
+        "state_ukrainian": 1.0,
+        "hacktivist_prorussian": 4.1667000000000005,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 0.0,
+        "unknown": 0.0,
+        "total": 8.166699999999999
+      },
+      "2023-03": {
+        "state_russian": 2.0,
+        "state_ukrainian": 0.0,
+        "hacktivist_prorussian": 1.0,
+        "hacktivist_proukrainian": 1.0,
+        "hacktivist_other": 0.0,
+        "unknown": 0.0,
+        "total": 4.0
+      },
+      "2023-04": {
+        "state_russian": 5.0,
+        "state_ukrainian": 0.0,
+        "hacktivist_prorussian": 3.2,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 0.0,
+        "unknown": 1.0,
+        "total": 9.2
+      },
+      "2023-05": {
+        "state_russian": 4.0,
+        "state_ukrainian": 1.0,
+        "hacktivist_prorussian": 1.0,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 0.0,
+        "unknown": 1.0,
+        "total": 7.0
+      },
+      "2023-06": {
+        "state_russian": 4.0,
+        "state_ukrainian": 0.0,
+        "hacktivist_prorussian": 5.25,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 1.0,
+        "unknown": 1.0,
+        "total": 11.25
+      },
+      "2023-07": {
+        "state_russian": 1.0,
+        "state_ukrainian": 1.0,
+        "hacktivist_prorussian": 0.0,
+        "hacktivist_proukrainian": 1.0,
+        "hacktivist_other": 0.0,
+        "unknown": 0.0,
+        "total": 3.0
+      },
+      "2023-08": {
+        "state_russian": 9.0,
+        "state_ukrainian": 0.0,
+        "hacktivist_prorussian": 2.5833,
+        "hacktivist_proukrainian": 1.5,
+        "hacktivist_other": 2.0,
+        "unknown": 0.0,
+        "total": 15.083300000000001
+      },
+      "2023-09": {
+        "state_russian": 2.0909,
+        "state_ukrainian": 1.0,
+        "hacktivist_prorussian": 2.0,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 0.0,
+        "unknown": 1.0,
+        "total": 6.0909
+      },
+      "2023-10": {
+        "state_russian": 2.0,
+        "state_ukrainian": 2.0,
+        "hacktivist_prorussian": 3.0,
+        "hacktivist_proukrainian": 0.5,
+        "hacktivist_other": 0.0,
+        "unknown": 0.0,
+        "total": 7.5
+      },
+      "2023-11": {
+        "state_russian": 4.0,
+        "state_ukrainian": 1.0,
+        "hacktivist_prorussian": 2.0,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 1.0,
+        "unknown": 0.0,
+        "total": 8.0
+      },
+      "2023-12": {
+        "state_russian": 4.0,
+        "state_ukrainian": 2.0,
+        "hacktivist_prorussian": 0.25,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 1.0,
+        "unknown": 1.0,
+        "total": 8.25
+      },
+      "2024-01": {
+        "state_russian": 5.0,
+        "state_ukrainian": 2.0,
+        "hacktivist_prorussian": 3.1667,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 1.0,
+        "unknown": 2.3333,
+        "total": 13.5
+      },
+      "2024-02": {
+        "state_russian": 3.0,
+        "state_ukrainian": 0.0,
+        "hacktivist_prorussian": 1.5,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 2.0,
+        "unknown": 1.0,
+        "total": 7.5
+      },
+      "2024-03": {
+        "state_russian": 5.0,
+        "state_ukrainian": 1.0,
+        "hacktivist_prorussian": 2.0,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 1.0,
+        "unknown": 1.0,
+        "total": 10.0
+      },
+      "2024-04": {
+        "state_russian": 3.0,
+        "state_ukrainian": 0.0,
+        "hacktivist_prorussian": 1.0,
+        "hacktivist_proukrainian": 1.0,
+        "hacktivist_other": 1.0,
+        "unknown": 1.0,
+        "total": 7.0
+      },
+      "2024-05": {
+        "state_russian": 3.0,
+        "state_ukrainian": 0.0,
+        "hacktivist_prorussian": 1.0,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 0.0,
+        "unknown": 3.0,
+        "total": 7.0
+      },
+      "2024-06": {
+        "state_russian": 5.0,
+        "state_ukrainian": 0.0,
+        "hacktivist_prorussian": 0.0,
+        "hacktivist_proukrainian": 1.0,
+        "hacktivist_other": 1.0,
+        "unknown": 2.0,
+        "total": 9.0
+      },
+      "2024-07": {
+        "state_russian": 1.0,
+        "state_ukrainian": 0.0714,
+        "hacktivist_prorussian": 1.0,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 0.0,
+        "unknown": 0.0,
+        "total": 2.0713999999999997
+      },
+      "2024-08": {
+        "state_russian": 1.0,
+        "state_ukrainian": 0.0,
+        "hacktivist_prorussian": 0.0,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 0.0,
+        "unknown": 1.0,
+        "total": 2.0
+      },
+      "2024-09": {
+        "state_russian": 2.0,
+        "state_ukrainian": 1.0,
+        "hacktivist_prorussian": 2.0,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 0.0,
+        "unknown": 2.5,
+        "total": 7.5
+      },
+      "2024-10": {
+        "state_russian": 3.0,
+        "state_ukrainian": 2.0,
+        "hacktivist_prorussian": 2.0,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 0.0,
+        "unknown": 2.0,
+        "total": 9.0
+      },
+      "2024-11": {
+        "state_russian": 0.0,
+        "state_ukrainian": 0.0,
+        "hacktivist_prorussian": 2.0,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 0.0,
+        "unknown": 0.0,
+        "total": 2.0
+      },
+      "2024-12": {
+        "state_russian": 6.0,
+        "state_ukrainian": 1.0,
+        "hacktivist_prorussian": 1.0,
+        "hacktivist_proukrainian": 0.0,
+        "hacktivist_other": 0.0,
+        "unknown": 2.0,
+        "total": 10.0
+      }
+    }
+  },
+  "by_source": {
+    "cfr": {
+      "2022-02": {
+        "state": 5.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 5.0
+      },
+      "2022-03": {
+        "state": 5.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 5.0
+      },
+      "2022-04": {
+        "state": 5.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 5.0
+      },
+      "2022-05": {
+        "state": 2.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 2.0
+      },
+      "2022-06": {
+        "state": 1.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 1.0
+      },
+      "2022-07": {
+        "state": 2.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 2.0
+      },
+      "2022-08": {
+        "state": 2.0,
+        "hacktivist": 0.0,
+        "unknown": 1.0,
+        "total": 3.0
+      },
+      "2022-09": {
+        "state": 1.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 1.0
+      },
+      "2022-11": {
+        "state": 1.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 1.0
+      },
+      "2022-12": {
+        "state": 1.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 1.0
+      }
+    },
+    "cissm": {
+      "2022-02": {
+        "state": 5.25,
+        "hacktivist": 2.1667,
+        "unknown": 2.0,
+        "total": 9.416699999999999
+      },
+      "2022-03": {
+        "state": 9.0,
+        "hacktivist": 3.0,
+        "unknown": 1.4762,
+        "total": 13.4762
+      },
+      "2022-04": {
+        "state": 8.0,
+        "hacktivist": 8.3333,
+        "unknown": 2.0,
+        "total": 18.3333
+      },
+      "2022-05": {
+        "state": 4.5,
+        "hacktivist": 7.0,
+        "unknown": 1.0,
+        "total": 12.5
+      },
+      "2022-06": {
+        "state": 2.0,
+        "hacktivist": 2.5,
+        "unknown": 2.5,
+        "total": 7.0
+      },
+      "2022-07": {
+        "state": 3.25,
+        "hacktivist": 8.0,
+        "unknown": 1.0,
+        "total": 12.25
+      },
+      "2022-08": {
+        "state": 3.0,
+        "hacktivist": 11.25,
+        "unknown": 1.0,
+        "total": 15.25
+      },
+      "2022-09": {
+        "state": 5.3332999999999995,
+        "hacktivist": 9.75,
+        "unknown": 0.0,
+        "total": 15.083300000000001
+      },
+      "2022-10": {
+        "state": 9.0,
+        "hacktivist": 11.2,
+        "unknown": 1.0,
+        "total": 21.2
+      },
+      "2022-11": {
+        "state": 11.4999,
+        "hacktivist": 11.0,
+        "unknown": 1.0,
+        "total": 23.499899999999997
+      },
+      "2022-12": {
+        "state": 6.5,
+        "hacktivist": 10.0,
+        "unknown": 1.0,
+        "total": 17.5
+      },
+      "2023-01": {
+        "state": 3.0,
+        "hacktivist": 6.5,
+        "unknown": 0.0,
+        "total": 9.5
+      },
+      "2023-02": {
+        "state": 4.0,
+        "hacktivist": 3.1667,
+        "unknown": 0.0,
+        "total": 7.1667
+      },
+      "2023-03": {
+        "state": 1.0,
+        "hacktivist": 2.0,
+        "unknown": 0.0,
+        "total": 3.0
+      },
+      "2023-04": {
+        "state": 3.0,
+        "hacktivist": 2.2,
+        "unknown": 1.0,
+        "total": 6.2
+      },
+      "2023-05": {
+        "state": 2.0,
+        "hacktivist": 0.0,
+        "unknown": 1.0,
+        "total": 3.0
+      },
+      "2023-06": {
+        "state": 1.0,
+        "hacktivist": 5.25,
+        "unknown": 1.0,
+        "total": 7.25
+      },
+      "2023-07": {
+        "state": 1.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 1.0
+      },
+      "2023-08": {
+        "state": 3.0,
+        "hacktivist": 6.0833,
+        "unknown": 0.0,
+        "total": 9.083300000000001
+      },
+      "2023-09": {
+        "state": 2.0909,
+        "hacktivist": 1.0,
+        "unknown": 1.0,
+        "total": 4.0909
+      },
+      "2023-10": {
+        "state": 2.0,
+        "hacktivist": 3.5,
+        "unknown": 0.0,
+        "total": 5.5
+      },
+      "2023-11": {
+        "state": 4.0,
+        "hacktivist": 3.0,
+        "unknown": 0.0,
+        "total": 7.0
+      },
+      "2023-12": {
+        "state": 3.0,
+        "hacktivist": 1.25,
+        "unknown": 1.0,
+        "total": 5.25
+      },
+      "2024-01": {
+        "state": 5.0,
+        "hacktivist": 4.1667000000000005,
+        "unknown": 2.3333,
+        "total": 11.5
+      },
+      "2024-02": {
+        "state": 3.0,
+        "hacktivist": 3.5,
+        "unknown": 1.0,
+        "total": 7.5
+      },
+      "2024-03": {
+        "state": 3.0,
+        "hacktivist": 3.0,
+        "unknown": 1.0,
+        "total": 7.0
+      },
+      "2024-04": {
+        "state": 2.0,
+        "hacktivist": 2.0,
+        "unknown": 1.0,
+        "total": 5.0
+      },
+      "2024-05": {
+        "state": 1.0,
+        "hacktivist": 1.0,
+        "unknown": 3.0,
+        "total": 5.0
+      },
+      "2024-06": {
+        "state": 3.0,
+        "hacktivist": 1.0,
+        "unknown": 2.0,
+        "total": 6.0
+      },
+      "2024-07": {
+        "state": 1.0714,
+        "hacktivist": 1.0,
+        "unknown": 0.0,
+        "total": 2.0713999999999997
+      },
+      "2024-08": {
+        "state": 0.0,
+        "hacktivist": 0.0,
+        "unknown": 1.0,
+        "total": 1.0
+      },
+      "2024-09": {
+        "state": 2.0,
+        "hacktivist": 2.0,
+        "unknown": 2.5,
+        "total": 6.5
+      },
+      "2024-10": {
+        "state": 4.0,
+        "hacktivist": 2.0,
+        "unknown": 2.0,
+        "total": 8.0
+      },
+      "2024-11": {
+        "state": 0.0,
+        "hacktivist": 1.0,
+        "unknown": 0.0,
+        "total": 1.0
+      },
+      "2024-12": {
+        "state": 4.0,
+        "hacktivist": 1.0,
+        "unknown": 2.0,
+        "total": 7.0
+      }
+    },
+    "csis": {
+      "2022-01": {
+        "state": 2.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 2.0
+      },
+      "2022-02": {
+        "state": 4.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 4.0
+      },
+      "2022-03": {
+        "state": 1.0,
+        "hacktivist": 1.0,
+        "unknown": 0.0,
+        "total": 2.0
+      },
+      "2022-04": {
+        "state": 2.0,
+        "hacktivist": 1.0,
+        "unknown": 0.0,
+        "total": 3.0
+      },
+      "2022-05": {
+        "state": 0.0,
+        "hacktivist": 2.0,
+        "unknown": 0.0,
+        "total": 2.0
+      },
+      "2022-06": {
+        "state": 0.0,
+        "hacktivist": 1.0,
+        "unknown": 0.0,
+        "total": 1.0
+      },
+      "2022-07": {
+        "state": 1.0,
+        "hacktivist": 1.0,
+        "unknown": 0.0,
+        "total": 2.0
+      },
+      "2022-08": {
+        "state": 3.0,
+        "hacktivist": 2.0,
+        "unknown": 0.0,
+        "total": 5.0
+      },
+      "2022-09": {
+        "state": 1.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 1.0
+      },
+      "2022-10": {
+        "state": 0.0,
+        "hacktivist": 2.0,
+        "unknown": 0.0,
+        "total": 2.0
+      },
+      "2022-11": {
+        "state": 1.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 1.0
+      },
+      "2022-12": {
+        "state": 4.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 4.0
+      },
+      "2023-01": {
+        "state": 4.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 4.0
+      },
+      "2023-02": {
+        "state": 0.0,
+        "hacktivist": 1.0,
+        "unknown": 0.0,
+        "total": 1.0
+      },
+      "2023-03": {
+        "state": 1.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 1.0
+      },
+      "2023-04": {
+        "state": 2.0,
+        "hacktivist": 1.0,
+        "unknown": 0.0,
+        "total": 3.0
+      },
+      "2023-05": {
+        "state": 3.0,
+        "hacktivist": 1.0,
+        "unknown": 0.0,
+        "total": 4.0
+      },
+      "2023-06": {
+        "state": 3.0,
+        "hacktivist": 1.0,
+        "unknown": 0.0,
+        "total": 4.0
+      },
+      "2023-07": {
+        "state": 1.0,
+        "hacktivist": 1.0,
+        "unknown": 0.0,
+        "total": 2.0
+      },
+      "2023-08": {
+        "state": 6.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 6.0
+      },
+      "2023-09": {
+        "state": 1.0,
+        "hacktivist": 1.0,
+        "unknown": 0.0,
+        "total": 2.0
+      },
+      "2023-10": {
+        "state": 2.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 2.0
+      },
+      "2023-11": {
+        "state": 1.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 1.0
+      },
+      "2023-12": {
+        "state": 3.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 3.0
+      },
+      "2024-01": {
+        "state": 2.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 2.0
+      },
+      "2024-03": {
+        "state": 3.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 3.0
+      },
+      "2024-04": {
+        "state": 1.0,
+        "hacktivist": 1.0,
+        "unknown": 0.0,
+        "total": 2.0
+      },
+      "2024-05": {
+        "state": 2.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 2.0
+      },
+      "2024-06": {
+        "state": 2.0,
+        "hacktivist": 1.0,
+        "unknown": 0.0,
+        "total": 3.0
+      },
+      "2024-08": {
+        "state": 1.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 1.0
+      },
+      "2024-09": {
+        "state": 1.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 1.0
+      },
+      "2024-10": {
+        "state": 1.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 1.0
+      },
+      "2024-11": {
+        "state": 0.0,
+        "hacktivist": 1.0,
+        "unknown": 0.0,
+        "total": 1.0
+      },
+      "2024-12": {
+        "state": 3.0,
+        "hacktivist": 0.0,
+        "unknown": 0.0,
+        "total": 3.0
+      }
+    }
+  },
+  "note": "Values are weighted (analysis_weight). CISSM cluster weights applied."
+}

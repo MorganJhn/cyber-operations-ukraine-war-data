@@ -1,0 +1,47 @@
+{
+  "cissm": {
+    "n": 335,
+    "total_weight": 301.12,
+    "event_types": {
+      "Disruptive": {
+        "weighted_count": 185.45,
+        "percent": 61.6
+      },
+      "Exploitive": {
+        "weighted_count": 93.5,
+        "percent": 31.1
+      },
+      "Mixed": {
+        "weighted_count": 15.67,
+        "percent": 5.2
+      },
+      "Undetermined": {
+        "weighted_count": 6.5,
+        "percent": 2.2
+      }
+    }
+  },
+  "cfr": {
+    "n": 26,
+    "total_weight": 26.0,
+    "event_types": {
+      "Espionage": {
+        "weighted_count": 15.0,
+        "percent": 57.7
+      },
+      "Denial of service": {
+        "weighted_count": 4.0,
+        "percent": 15.4
+      },
+      "Sabotage": {
+        "weighted_count": 4.0,
+        "percent": 15.4
+      },
+      "Data destruction": {
+        "weighted_count": 3.0,
+        "percent": 11.5
+      }
+    }
+  },
+  "note": "CSIS excluded: no structured event-type taxonomy. CISSM and CFR use incommensurable taxonomies; shown descriptively, not compared."
+}

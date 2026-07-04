@@ -1,0 +1,134 @@
+{
+  "cissm": {
+    "n": 335,
+    "total_weight": 301.12,
+    "self_attribution": {
+      "count": 177,
+      "proportion": 0.5284,
+      "weighted_proportion": 0.518,
+      "wilson_ci_95": {
+        "lower": 0.4749,
+        "upper": 0.5812
+      },
+      "display": "177/335 (52.8%, 95% CI [47.5%, 58.1%])"
+    },
+    "full_distribution": {
+      "academic_research": {
+        "count": 17,
+        "weighted_sum": 14.92,
+        "weighted_pct": 5.0
+      },
+      "corporate_threat_intel": {
+        "count": 33,
+        "weighted_sum": 32.5,
+        "weighted_pct": 10.8
+      },
+      "journalistic": {
+        "count": 3,
+        "weighted_sum": 3.0,
+        "weighted_pct": 1.0
+      },
+      "official_government": {
+        "count": 50,
+        "weighted_sum": 46.84,
+        "weighted_pct": 15.6
+      },
+      "self_attribution": {
+        "count": 177,
+        "weighted_sum": 155.99,
+        "weighted_pct": 51.8
+      },
+      "unclear": {
+        "count": 55,
+        "weighted_sum": 47.88,
+        "weighted_pct": 15.9
+      }
+    }
+  },
+  "csis": {
+    "n": 81,
+    "total_weight": 81.0,
+    "self_attribution": {
+      "count": 15,
+      "proportion": 0.1852,
+      "weighted_proportion": 0.1852,
+      "wilson_ci_95": {
+        "lower": 0.1156,
+        "upper": 0.2833
+      },
+      "display": "15/81 (18.5%, 95% CI [11.6%, 28.3%])"
+    },
+    "full_distribution": {
+      "academic_research": {
+        "count": 2,
+        "weighted_sum": 2.0,
+        "weighted_pct": 2.5
+      },
+      "corporate_threat_intel": {
+        "count": 3,
+        "weighted_sum": 3.0,
+        "weighted_pct": 3.7
+      },
+      "mutual_blame": {
+        "count": 4,
+        "weighted_sum": 4.0,
+        "weighted_pct": 4.9
+      },
+      "official_government": {
+        "count": 17,
+        "weighted_sum": 17.0,
+        "weighted_pct": 21.0
+      },
+      "self_attribution": {
+        "count": 15,
+        "weighted_sum": 15.0,
+        "weighted_pct": 18.5
+      },
+      "unclear": {
+        "count": 40,
+        "weighted_sum": 40.0,
+        "weighted_pct": 49.4
+      }
+    }
+  },
+  "cfr": {
+    "n": 26,
+    "total_weight": 26.0,
+    "self_attribution": {
+      "count": 0,
+      "proportion": 0.0,
+      "weighted_proportion": 0.0,
+      "wilson_ci_95": {
+        "lower": 0.0,
+        "upper": 0.1287
+      },
+      "display": "0/26 (0.0%, 95% CI [0.0%, 12.9%])"
+    },
+    "full_distribution": {
+      "academic_research": {
+        "count": 3,
+        "weighted_sum": 3.0,
+        "weighted_pct": 11.5
+      },
+      "corporate_threat_intel": {
+        "count": 4,
+        "weighted_sum": 4.0,
+        "weighted_pct": 15.4
+      },
+      "official_government": {
+        "count": 4,
+        "weighted_sum": 4.0,
+        "weighted_pct": 15.4
+      },
+      "unclear": {
+        "count": 15,
+        "weighted_sum": 15.0,
+        "weighted_pct": 57.7
+      }
+    }
+  },
+  "_context": {
+    "note": "Self-attribution indicates the operation was claimed by the perpetrator. CISSM collects OSINT including hacktivist self-attestations. CSIS curates state-attributed incidents. CFR uses media/law enforcement reports.",
+    "interpretation": "CISSM's high self-attribution (52.8%) reflects its OSINT collection methodology capturing hacktivist claims. CSIS's lower rate (18.3%) reflects state-curated incident selection. CFR's 0% reflects its media-source focus."
+  }
+}

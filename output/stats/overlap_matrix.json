@@ -1,0 +1,34 @@
+{
+  "matrix": {
+    "cissm": {
+      "cissm": 335,
+      "csis": 236,
+      "cfr": 218
+    },
+    "csis": {
+      "cissm": 236,
+      "csis": 81,
+      "cfr": 33
+    },
+    "cfr": {
+      "cissm": 218,
+      "csis": 33,
+      "cfr": 26
+    }
+  },
+  "source_totals": {
+    "cissm": 335,
+    "cfr": 26,
+    "csis": 81
+  },
+  "single_source_counts": {
+    "cissm": 138,
+    "csis": 42,
+    "cfr": 0
+  },
+  "verified_matches": 0,
+  "same_date_pairs": 54,
+  "same_date_note": "54 pairs share the same date (day_diff=0). This is date-proximity only, not verified incident identity.",
+  "total_overlay_pairs": 487,
+  "note": "Verified match requires confirmed same-incident across databases. Result: 0 verified."
+}

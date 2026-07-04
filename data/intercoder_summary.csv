@@ -1,0 +1,8 @@
+attribution_method,total,consistent,partial,inconsistent,consistency_rate_pct
+academic_research,23,5,7,11,21.7
+corporate_threat_intel,42,24,14,4,57.1
+journalistic,4,0,0,4,0.0
+mutual_blame,4,0,0,4,0.0
+official_government,73,44,22,7,60.3
+self_attribution,192,173,0,19,90.1
+unclear,115,81,0,34,70.4
