@@ -140,7 +140,7 @@ The `literature_review/` directory contains a systematic review of 61 papers acr
   author={Johanson, Morgan},
   year={2026},
   note={Replication data and code},
-  url={https://github.com/[USERNAME]/cyber-operations-ukraine-war-data}
+  url={https://github.com/MorganJhn/cyber-operations-ukraine-war-data}
 }
 ```
 
